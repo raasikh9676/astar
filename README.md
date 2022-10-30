@@ -1,5 +1,5 @@
 # astar
-A Python implementation of an A* Search Algorithm
+A Python implementation of an A* Search Algorithm along with a visual representation using PyGame.
 
 How to run:
   1. Click a grid block to set a start point
